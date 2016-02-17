@@ -1,0 +1,4264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Article>
+<PMCID>59901</PMCID>
+<PMID>11716797</PMID>
+<p-issn>1472-6947</p-issn>
+<e-issn/>
+<Title>Improving question formulation for use in evidence appraisal in a tertiary care setting: a randomised controlled trial [ISRCTN66375463]</Title>
+<Authors>
+<Author>
+<AuthorName>Villanueva, Elmer V</AuthorName>
+<AuthorAffiliation>Centre for Clinical Effectiveness, Monash Institute of Health Services Research, Melbourne, Victoria, Australia</AuthorAffiliation>
+<AuthorEmail>Elmer.Villanueva@med.monash.edu.au</AuthorEmail>
+</Author>
+<Author>
+<AuthorName>Burrows, Elizabeth A</AuthorName>
+<AuthorAffiliation>Centre for Clinical Effectiveness, Monash Institute of Health Services Research, Melbourne, Victoria, Australia</AuthorAffiliation>
+<AuthorEmail>Elizabeth.Burrows@med.monash.edu.au</AuthorEmail>
+</Author>
+<Author>
+<AuthorName>Fennessy, Paul A</AuthorName>
+<AuthorAffiliation>Centre for Clinical Effectiveness, Monash Institute of Health Services Research, Melbourne, Victoria, Australia</AuthorAffiliation>
+<AuthorEmail>Paul.Fennessy@med.monash.edu.au</AuthorEmail>
+</Author>
+<Author>
+<AuthorName>Rajendran, Meera</AuthorName>
+<AuthorAffiliation>Information Strategy and Business Development Division, Health Insurance Commission, Canberra, ACT, Australia</AuthorAffiliation>
+<AuthorEmail>Meera.Rajendran@hic.gov.au</AuthorEmail>
+</Author>
+<Author>
+<AuthorName>Anderson, Jeremy N</AuthorName>
+<AuthorAffiliation>Centre for Clinical Effectiveness, Monash Institute of Health Services Research, Melbourne, Victoria, Australia</AuthorAffiliation>
+<AuthorEmail>Jeremy.Anderson@med.monash.edu.au</AuthorEmail>
+</Author>
+</Authors>
+<KeyWords/>
+<JournalInformation>
+<PublisherName>BioMed Central</PublisherName>
+<PublisherLocation/>
+<Venue/>
+<journal>BMC Medical Informatics and Decision Making</journal>
+</JournalInformation>
+<Abstract>BackgroundThe specificity of clinical questions is gauged by explicit descriptions of four dimensions: subjects, interventions, comparators and outcomes of interest. This study determined whether adding simple instructions and examples on clinical question formulation would increase the specificity of the submitted question compared to using a standard form without instructions and examples.MethodsA randomised controlled trial was conducted in an evidence-search and appraisal service. New participants were invited to reformulate clinical queries. The Control Group was given no instructions. The Intervention Group was given a brief explanation of proper formulation, written instructions, and diagrammatic examples. The primary outcome was the change in the proportion of reformulated questions that described each the dimensions of specificity.ResultsFifty-two subjects agreed to participate in the trial of which 13 were lost to follow-up. The remaining 17 Intervention Group and 22 Control Group participants were analysed. Baseline characteristics were comparable. Overall, 20% of initially submitted questions from both groups were properly specified (defined as an explicit statement describing all dimensions of specificity). On follow-up, 7/14 questions previously rated as mis-specified in the Intervention Group had all dimensions described at follow-up (p = 0.008) while the Control Group did not show any changes from baseline. Participants in the Intervention Group were also more likely to explicitly describe patients (p = 0.028), comparisons (p = 0.014), and outcomes (p = 0.008).ConclusionsThis trial demonstrated the positive impact of specific instructions on the proportion of properly-specified clinical queries. The evaluation of the long-term impact of such changes is an area of continued research.</Abstract>
+<Tables>
+<Table>
+<TableOrder>Table 1</TableOrder>
+<TableCaption>Three-point ordinal scale used in determining the completeness of dimensional elements of question specificity during outcome assessment.</TableCaption>
+<TableFooter/>
+<TableStructureType>MATRIX</TableStructureType>
+<TablePragmaticClass>settings</TablePragmaticClass>
+<TabHasXML>yes</TabHasXML>
+<Cells>
+<Cell>
+<CellID>0.0</CellID>
+<CellValue>Score</CellValue>
+<Annotations>
+<Annotation Content="Score" End="5" ID="5666505" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=mark"/>
+<Annotation Content="Score" End="5" ID="6724199" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=score"/>
+<Annotation Content="Score" End="5" ID="13419839" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=score"/>
+<Annotation Content="Score" End="5" ID="8158892" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=score"/>
+<Annotation Content="Score" End="5" ID="9047807" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=score"/>
+<Annotation Content="Score" End="5" ID="5746541" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=score"/>
+<Annotation Content="Score" End="5" ID="14298229" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=score"/>
+<Annotation Content="Score" End="5" ID="13720187" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=score"/>
+<Annotation Content="Score" End="5" ID="7446948" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=grudge"/>
+<Annotation Content="Score" End="5" ID="182995" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=score"/>
+<Annotation Content="Score" End="5" ID="157508" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=sexual_conquest"/>
+</Annotations>
+<CellType>Text</CellType>
+<CellRoles>
+<CellRole>Header</CellRole>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>0</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>0.1</CellID>
+<CellValue>Description</CellValue>
+<Annotations>
+<Annotation Content="Description" End="11" ID="6634244" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=description"/>
+<Annotation Content="Description" End="11" ID="7102711" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=description"/>
+<Annotation Content="Description" End="11" ID="5767116" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=description"/>
+</Annotations>
+<CellType>Text</CellType>
+<StubRef>0.0</StubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>0</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>1.0</CellID>
+<CellValue>0</CellValue>
+<Annotations>
+<Annotation Content="0" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="0" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+</Annotations>
+<CellType>Numeric</CellType>
+<HeaderRef>0.0</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>1</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>1.1</CellID>
+<CellValue>Absent</CellValue>
+<Annotations>
+<Annotation Content="Absent" End="6" ID="1913530" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=absent"/>
+<Annotation Content="Absent" End="6" ID="185657" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=absent"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>0.1</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>1.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>1</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>2.0</CellID>
+<CellValue>2</CellValue>
+<Annotations>
+<Annotation Content="1" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="1" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+</Annotations>
+<CellType>Numeric</CellType>
+<HeaderRef>0.0</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>2</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>2.1</CellID>
+<CellValue>Present, broadly defined</CellValue>
+<Annotations>
+<Annotation Content="Present" End="7" ID="14920954" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=present"/>
+<Annotation Content="Present" End="7" ID="13098287" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=present"/>
+<Annotation Content="Present" End="7" ID="6245032" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=present"/>
+<Annotation Content="broadly" End="16" ID="223378" Source="WordNet" Start="9" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=broadly"/>
+<Annotation Content="defined" End="24" ID="2712452" Source="WordNet" Start="17" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=define"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>0.1</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>2.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>2</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>3.0</CellID>
+<CellValue>2</CellValue>
+<Annotations>
+<Annotation Content="2" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="2" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+</Annotations>
+<CellType>Numeric</CellType>
+<HeaderRef>0.0</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>3</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>3.1</CellID>
+<CellValue>Present, defined specifically</CellValue>
+<Annotations>
+<Annotation Content="Present" End="7" ID="14920954" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=present"/>
+<Annotation Content="Present" End="7" ID="13098287" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=present"/>
+<Annotation Content="Present" End="7" ID="6245032" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=present"/>
+<Annotation Content="defined" End="16" ID="2712452" Source="WordNet" Start="9" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=define"/>
+<Annotation Content="specifically" End="29" ID="41621" Source="WordNet" Start="17" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=specifically"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>0.1</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>3.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>3</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+</Cells>
+</Table>
+<Table>
+<TableOrder>Table 2</TableOrder>
+<TableCaption>Distribution of the disciplines of participants enrolled into the RCT compared to all users of the Evidence Centre.*</TableCaption>
+<TableFooter>* Percentages may not sum to 100 due to rounding. † Includes such disciplines as physiotherapy, occupational therapy, speech pathology, pharmacy, etc. ‡ Includes requests from hospital administration, psychology, in-service education units, etc.</TableFooter>
+<TableStructureType>MATRIX</TableStructureType>
+<TablePragmaticClass>findings</TablePragmaticClass>
+<TabHasXML>yes</TabHasXML>
+<Cells>
+<Cell>
+<CellID>0.0</CellID>
+<CellValue>Discipline</CellValue>
+<Annotations>
+<Annotation Content="Discipline" End="10" ID="5920396" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=discipline"/>
+<Annotation Content="Discipline" End="10" ID="5592744" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=discipline"/>
+<Annotation Content="Discipline" End="10" ID="4826379" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=discipline"/>
+<Annotation Content="Discipline" End="10" ID="881148" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=discipline"/>
+<Annotation Content="Discipline" End="10" ID="1146738" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=discipline"/>
+</Annotations>
+<CellType>Text</CellType>
+<CellRoles>
+<CellRole>Header</CellRole>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>0</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>0.1</CellID>
+<CellValue>Participants (n = 52) Frequency (%)</CellValue>
+<Annotations>
+<Annotation Content="52" End="20" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="18" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="52" End="20" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="18" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="Participants" End="12" ID="10246540" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=participant"/>
+<Annotation Content="Participants" End="12" ID="10283858" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=player"/>
+<Annotation Content="n" End="15" ID="13406268" Source="WordNet" Start="14" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=normality"/>
+<Annotation Content="Frequency" End="31" ID="15077602" Source="WordNet" Start="22" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=frequency"/>
+<Annotation Content="Frequency" End="31" ID="13639798" Source="WordNet" Start="22" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=frequency"/>
+<Annotation Content="Frequency" End="31" ID="13423273" Source="WordNet" Start="22" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=frequency"/>
+</Annotations>
+<CellType>Text</CellType>
+<StubRef>0.0</StubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>0</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>0.2</CellID>
+<CellValue>All Users (n = 550) Frequency (%)</CellValue>
+<Annotations>
+<Annotation Content="550" End="18" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="15" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="550" End="18" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="15" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="Users" End="9" ID="10581091" Source="WordNet" Start="4" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=user"/>
+<Annotation Content="Users" End="9" ID="9922825" Source="WordNet" Start="4" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=exploiter"/>
+<Annotation Content="Users" End="9" ID="9887184" Source="WordNet" Start="4" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=drug_user"/>
+<Annotation Content="Frequency" End="29" ID="15077602" Source="WordNet" Start="20" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=frequency"/>
+<Annotation Content="Frequency" End="29" ID="13639798" Source="WordNet" Start="20" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=frequency"/>
+<Annotation Content="Frequency" End="29" ID="13423273" Source="WordNet" Start="20" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=frequency"/>
+</Annotations>
+<CellType>Text</CellType>
+<StubRef>0.0</StubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>0</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>1.0</CellID>
+<CellValue>Nursing</CellValue>
+<Annotations>
+<Annotation Content="Nursing" End="7" ID="79903" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=nurse"/>
+<Annotation Content="Nursing" End="7" ID="1756126" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=harbor"/>
+<Annotation Content="Nursing" End="7" ID="2526426" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=nurse"/>
+<Annotation Content="Nursing" End="7" ID="2491025" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=nurse"/>
+<Annotation Content="Nursing" End="7" ID="1175192" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=breastfeed"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>0.0</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>1</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>1.1</CellID>
+<CellValue>21 (40.4)</CellValue>
+<Annotations>
+<Annotation Content="21" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="40.4" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="21" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="40.4" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>0.1</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>1.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>1</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>1.2</CellID>
+<CellValue>223 (40.5)</CellValue>
+<Annotations>
+<Annotation Content="223" End="3" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="40.5" End="9" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="5" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="223" End="3" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="40.5" End="9" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="5" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>0.2</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>1.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>1</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>2.0</CellID>
+<CellValue>Medicine</CellValue>
+<Annotations>
+<Annotation Content="Medicine" End="8" ID="5964779" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=medicine"/>
+<Annotation Content="Medicine" End="8" ID="3698752" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=medicine"/>
+<Annotation Content="Medicine" End="8" ID="606716" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=medicine"/>
+<Annotation Content="Medicine" End="8" ID="1147446" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=music"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>0.0</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>2</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>2.1</CellID>
+<CellValue>17 (32.7)</CellValue>
+<Annotations>
+<Annotation Content="17" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="32.7" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="17" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="32.7" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>0.1</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>2.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>2</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>2.2</CellID>
+<CellValue>218 (39.6)</CellValue>
+<Annotations>
+<Annotation Content="218" End="3" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="39.6" End="9" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="5" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="218" End="3" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="39.6" End="9" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="5" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>0.2</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>2.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>2</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>3.0</CellID>
+<CellValue>Allied Health†</CellValue>
+<Annotations>
+<Annotation Content="Health" End="13" ID="14256157" Source="WordNet" Start="7" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=health"/>
+<Annotation Content="Health" End="13" ID="13737741" Source="WordNet" Start="7" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=health"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>0.0</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>3</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>3.1</CellID>
+<CellValue>13 (25.0)</CellValue>
+<Annotations>
+<Annotation Content="13" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="25.0" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="13" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="25.0" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>0.1</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>3.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>3</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>3.2</CellID>
+<CellValue>77 (14.0)</CellValue>
+<Annotations>
+<Annotation Content="77" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="14.0" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="77" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="14.0" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>0.2</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>3.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>3</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>4.0</CellID>
+<CellValue>Other‡</CellValue>
+<Annotations/>
+<CellType>Text</CellType>
+<HeaderRef>0.0</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>4</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>4.1</CellID>
+<CellValue>1 (1.9)</CellValue>
+<Annotations>
+<Annotation Content="1" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="1.9" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="1" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="1.9" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>0.1</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>4.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>4</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>4.2</CellID>
+<CellValue>32 (5.8)</CellValue>
+<Annotations>
+<Annotation Content="32" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="5.8" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="32" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="5.8" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>0.2</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>4.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>4</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+</Cells>
+</Table>
+<Table>
+<TableOrder>Table 3</TableOrder>
+<TableCaption>Distribution of disciplines according to group assignment.*</TableCaption>
+<TableFooter>* Percentages may not sum to 100 due to rounding. † Includes such disciplines as physiotherapy, occupational therapy, speech pathology, pharmacy, etc. ‡ Includes requests from hospital administration, psychology, in-service education units, etc.</TableFooter>
+<TableStructureType>MATRIX</TableStructureType>
+<TablePragmaticClass>findings</TablePragmaticClass>
+<TabHasXML>yes</TabHasXML>
+<Cells>
+<Cell>
+<CellID>0.0</CellID>
+<CellValue>Discipline</CellValue>
+<Annotations>
+<Annotation Content="Discipline" End="10" ID="5920396" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=discipline"/>
+<Annotation Content="Discipline" End="10" ID="5592744" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=discipline"/>
+<Annotation Content="Discipline" End="10" ID="4826379" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=discipline"/>
+<Annotation Content="Discipline" End="10" ID="881148" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=discipline"/>
+<Annotation Content="Discipline" End="10" ID="1146738" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=discipline"/>
+</Annotations>
+<CellType>Text</CellType>
+<CellRoles>
+<CellRole>Header</CellRole>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>0</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>0.1</CellID>
+<CellValue>Intervention Group (n = 23) Frequency (%)</CellValue>
+<Annotations>
+<Annotation Content="23" End="26" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="24" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="23" End="26" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="24" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="Intervention" End="12" ID="1224573" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=intervention"/>
+<Annotation Content="Group" End="18" ID="29714" Source="WordNet" Start="13" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=group"/>
+<Annotation Content="n" End="21" ID="13406268" Source="WordNet" Start="20" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=normality"/>
+<Annotation Content="Frequency" End="37" ID="15077602" Source="WordNet" Start="28" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=frequency"/>
+<Annotation Content="Frequency" End="37" ID="13639798" Source="WordNet" Start="28" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=frequency"/>
+<Annotation Content="Frequency" End="37" ID="13423273" Source="WordNet" Start="28" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=frequency"/>
+</Annotations>
+<CellType>Text</CellType>
+<StubRef>0.0</StubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>0</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>0.2</CellID>
+<CellValue>Control Group (n = 29) Frequency (%)</CellValue>
+<Annotations>
+<Annotation Content="29" End="21" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="19" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="29" End="21" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="19" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="Control" End="7" ID="13645433" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=control"/>
+<Annotation Content="Group" End="13" ID="29714" Source="WordNet" Start="8" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=group"/>
+<Annotation Content="n" End="16" ID="13406268" Source="WordNet" Start="15" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=normality"/>
+<Annotation Content="Frequency" End="32" ID="15077602" Source="WordNet" Start="23" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=frequency"/>
+<Annotation Content="Frequency" End="32" ID="13639798" Source="WordNet" Start="23" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=frequency"/>
+<Annotation Content="Frequency" End="32" ID="13423273" Source="WordNet" Start="23" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=frequency"/>
+</Annotations>
+<CellType>Text</CellType>
+<StubRef>0.0</StubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>0</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>1.0</CellID>
+<CellValue>Nursing</CellValue>
+<Annotations>
+<Annotation Content="Nursing" End="7" ID="79903" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=nurse"/>
+<Annotation Content="Nursing" End="7" ID="1756126" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=harbor"/>
+<Annotation Content="Nursing" End="7" ID="2526426" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=nurse"/>
+<Annotation Content="Nursing" End="7" ID="2491025" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=nurse"/>
+<Annotation Content="Nursing" End="7" ID="1175192" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=breastfeed"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>0.0</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>1</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>1.1</CellID>
+<CellValue>8 (34.8)</CellValue>
+<Annotations>
+<Annotation Content="8" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="34.8" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="8" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="34.8" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>0.1</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>1.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>1</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>1.2</CellID>
+<CellValue>13 (44.8)</CellValue>
+<Annotations>
+<Annotation Content="13" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="44.8" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="13" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="44.8" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>0.2</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>1.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>1</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>2.0</CellID>
+<CellValue>Medicine</CellValue>
+<Annotations>
+<Annotation Content="Medicine" End="8" ID="5964779" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=medicine"/>
+<Annotation Content="Medicine" End="8" ID="3698752" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=medicine"/>
+<Annotation Content="Medicine" End="8" ID="606716" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=medicine"/>
+<Annotation Content="Medicine" End="8" ID="1147446" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=music"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>0.0</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>2</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>2.1</CellID>
+<CellValue>8 (34.8)</CellValue>
+<Annotations>
+<Annotation Content="8" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="34.8" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="8" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="34.8" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>0.1</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>2.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>2</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>2.2</CellID>
+<CellValue>9 (31.0)</CellValue>
+<Annotations>
+<Annotation Content="9" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="31.0" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="9" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="31.0" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>0.2</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>2.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>2</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>3.0</CellID>
+<CellValue>Allied Health†</CellValue>
+<Annotations>
+<Annotation Content="Health" End="13" ID="14256157" Source="WordNet" Start="7" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=health"/>
+<Annotation Content="Health" End="13" ID="13737741" Source="WordNet" Start="7" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=health"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>0.0</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>3</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>3.1</CellID>
+<CellValue>6 (26.1)</CellValue>
+<Annotations>
+<Annotation Content="6" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="26.1" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="6" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="26.1" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>0.1</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>3.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>3</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>3.2</CellID>
+<CellValue>7 (24.1)</CellValue>
+<Annotations>
+<Annotation Content="7" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="24.1" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="7" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="24.1" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>0.2</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>3.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>3</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>4.0</CellID>
+<CellValue>Other‡</CellValue>
+<Annotations/>
+<CellType>Text</CellType>
+<HeaderRef>0.0</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>4</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>4.1</CellID>
+<CellValue>1 (4.4)</CellValue>
+<Annotations>
+<Annotation Content="1" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="4.4" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="1" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="4.4" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>0.1</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>4.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>4</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>4.2</CellID>
+<CellValue>0 (0.0)</CellValue>
+<Annotations>
+<Annotation Content="0" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="0.0" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="0" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="0.0" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>0.2</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>4.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>4</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+</Cells>
+</Table>
+<Table>
+<TableOrder>Table 4</TableOrder>
+<TableCaption>Distribution of disciplines according to follow-up status.*</TableCaption>
+<TableFooter>* Percentages may not sum to 100 due to rounding. † Includes such disciplines as physiotherapy, occupational therapy, speech pathology, pharmacy, etc. ‡ Includes requests from hospital administration, psychology, in-service education units, etc.</TableFooter>
+<TableStructureType>MATRIX</TableStructureType>
+<TablePragmaticClass>findings</TablePragmaticClass>
+<TabHasXML>yes</TabHasXML>
+<Cells>
+<Cell>
+<CellID>0.0</CellID>
+<CellValue>Discipline</CellValue>
+<Annotations>
+<Annotation Content="Discipline" End="10" ID="5920396" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=discipline"/>
+<Annotation Content="Discipline" End="10" ID="5592744" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=discipline"/>
+<Annotation Content="Discipline" End="10" ID="4826379" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=discipline"/>
+<Annotation Content="Discipline" End="10" ID="881148" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=discipline"/>
+<Annotation Content="Discipline" End="10" ID="1146738" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=discipline"/>
+</Annotations>
+<CellType>Text</CellType>
+<CellRoles>
+<CellRole>Header</CellRole>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>0</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>0.1</CellID>
+<CellValue>Participants completing the study (n = 39) Frequency (%)</CellValue>
+<Annotations>
+<Annotation Content="39" End="41" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="39" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="39" End="41" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="39" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="Participants" End="12" ID="10246540" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=participant"/>
+<Annotation Content="Participants" End="12" ID="10283858" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=player"/>
+<Annotation Content="completing" End="23" ID="450821" Source="WordNet" Start="13" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=complete"/>
+<Annotation Content="study" End="33" ID="10506647" Source="WordNet" Start="28" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=study"/>
+<Annotation Content="Frequency" End="52" ID="13639798" Source="WordNet" Start="43" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=frequency"/>
+</Annotations>
+<CellType>Text</CellType>
+<StubRef>0.0</StubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>0</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>0.2</CellID>
+<CellValue>Participants lost to follow-up (n = 13) Frequency (%)</CellValue>
+<Annotations>
+<Annotation Content="13" End="38" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="36" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="13" End="38" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="36" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="Participants" End="12" ID="10246540" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=participant"/>
+<Annotation Content="Participants" End="12" ID="10283858" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=player"/>
+<Annotation Content="lost" End="17" ID="1490205" Source="WordNet" Start="13" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=misplace"/>
+<Annotation Content="follow-up" End="30" ID="1133961" Source="WordNet" Start="21" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=up(p)"/>
+<Annotation Content="n" End="33" ID="13406268" Source="WordNet" Start="32" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=normality"/>
+<Annotation Content="Frequency" End="49" ID="13639798" Source="WordNet" Start="40" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=frequency"/>
+</Annotations>
+<CellType>Text</CellType>
+<StubRef>0.0</StubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>0</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>1.0</CellID>
+<CellValue>Nursing</CellValue>
+<Annotations>
+<Annotation Content="Nursing" End="7" ID="79903" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=nurse"/>
+<Annotation Content="Nursing" End="7" ID="1756126" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=harbor"/>
+<Annotation Content="Nursing" End="7" ID="2526426" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=nurse"/>
+<Annotation Content="Nursing" End="7" ID="2491025" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=nurse"/>
+<Annotation Content="Nursing" End="7" ID="1175192" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=breastfeed"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>0.0</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>1</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>1.1</CellID>
+<CellValue>16 (41.0)</CellValue>
+<Annotations>
+<Annotation Content="16" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="41.0" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="16" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="41.0" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>0.1</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>1.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>1</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>1.2</CellID>
+<CellValue>5 (38.5)</CellValue>
+<Annotations>
+<Annotation Content="5" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="38.5" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="5" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="38.5" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>0.2</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>1.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>1</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>2.0</CellID>
+<CellValue>Medicine</CellValue>
+<Annotations>
+<Annotation Content="Medicine" End="8" ID="5964779" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=medicine"/>
+<Annotation Content="Medicine" End="8" ID="3698752" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=medicine"/>
+<Annotation Content="Medicine" End="8" ID="606716" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=medicine"/>
+<Annotation Content="Medicine" End="8" ID="1147446" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=music"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>0.0</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>2</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>2.1</CellID>
+<CellValue>11 (28.2)</CellValue>
+<Annotations>
+<Annotation Content="11" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="28.2" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="11" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="28.2" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>0.1</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>2.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>2</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>2.2</CellID>
+<CellValue>6 (46.2)</CellValue>
+<Annotations>
+<Annotation Content="6" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="46.2" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="6" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="46.2" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>0.2</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>2.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>2</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>3.0</CellID>
+<CellValue>Allied Health†</CellValue>
+<Annotations>
+<Annotation Content="Health" End="13" ID="14256157" Source="WordNet" Start="7" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=health"/>
+<Annotation Content="Health" End="13" ID="13737741" Source="WordNet" Start="7" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=health"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>0.0</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>3</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>3.1</CellID>
+<CellValue>11 (28.2)</CellValue>
+<Annotations>
+<Annotation Content="11" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="28.2" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="11" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="28.2" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>0.1</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>3.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>3</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>3.2</CellID>
+<CellValue>2 (15.4)</CellValue>
+<Annotations>
+<Annotation Content="2" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="15.4" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="2" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="15.4" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>0.2</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>3.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>3</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>4.0</CellID>
+<CellValue>Other‡</CellValue>
+<Annotations/>
+<CellType>Text</CellType>
+<HeaderRef>0.0</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>4</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>4.1</CellID>
+<CellValue>1 (2.6)</CellValue>
+<Annotations>
+<Annotation Content="1" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="2.6" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="1" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="2.6" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>0.1</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>4.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>4</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>4.2</CellID>
+<CellValue>0 (0.0)</CellValue>
+<Annotations>
+<Annotation Content="0" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="0.0" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="0" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="0.0" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>0.2</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>4.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>4</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+</Cells>
+</Table>
+<Table>
+<TableOrder>Table 5</TableOrder>
+<TableCaption>Question specificity by group assignment at baseline and follow-up.*</TableCaption>
+<TableFooter>* Percentages may not sum to 100 due to rounding. † Two-sided Wilcoxon signed ranks test. ‡ A properly specified question was one that had an explicit statement for each of the four dimensions of question specificity. If a question had at least one dimension coded as absent, it was classified as mis-specified.</TableFooter>
+<TableStructureType>MULTI</TableStructureType>
+<TablePragmaticClass>findings</TablePragmaticClass>
+<TabHasXML>yes</TabHasXML>
+<Cells>
+<Cell>
+<CellID>0.0</CellID>
+<CellValue>Specificity</CellValue>
+<Annotations>
+<Annotation Content="Specificity" End="11" ID="4707183" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=specificity"/>
+<Annotation Content="Specificity" End="11" ID="4707415" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=specificity"/>
+</Annotations>
+<CellType>Text</CellType>
+<CellRoles>
+<CellRole>Header</CellRole>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>0</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>0.1</CellID>
+<CellValue>Baseline Frequency (%)</CellValue>
+<Annotations>
+<Annotation Content="Baseline" End="8" ID="13670550" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=baseline"/>
+<Annotation Content="Baseline" End="8" ID="8530178" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=service_line"/>
+<Annotation Content="Baseline" End="8" ID="8453246" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=baseline"/>
+<Annotation Content="Frequency" End="18" ID="15077602" Source="WordNet" Start="9" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=frequency"/>
+<Annotation Content="Frequency" End="18" ID="13639798" Source="WordNet" Start="9" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=frequency"/>
+<Annotation Content="Frequency" End="18" ID="13423273" Source="WordNet" Start="9" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=frequency"/>
+</Annotations>
+<CellType>Text</CellType>
+<StubRef>0.0</StubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>0</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>0.2</CellID>
+<CellValue>Follow-up Frequency (%)</CellValue>
+<Annotations>
+<Annotation Content="Follow-up" End="9" ID="3341839" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=follow-up"/>
+<Annotation Content="Follow-up" End="9" ID="450667" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=follow-up"/>
+<Annotation Content="Follow-up" End="9" ID="140510" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=follow-up"/>
+<Annotation Content="Frequency" End="19" ID="15077602" Source="WordNet" Start="10" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=frequency"/>
+<Annotation Content="Frequency" End="19" ID="13639798" Source="WordNet" Start="10" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=frequency"/>
+<Annotation Content="Frequency" End="19" ID="13423273" Source="WordNet" Start="10" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=frequency"/>
+</Annotations>
+<CellType>Text</CellType>
+<StubRef>0.0</StubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>0</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>0.3</CellID>
+<CellValue>Within-Group Pre-Post Comparison (p-value)†</CellValue>
+<Annotations>
+<Annotation Content="Within-Group" End="12" ID="29714" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=group"/>
+<Annotation Content="Pre-Post" End="21" ID="11080242" Source="WordNet" Start="13" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=Post"/>
+<Annotation Content="Comparison" End="32" ID="140066" Source="WordNet" Start="22" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=comparison"/>
+<Annotation Content="Comparison" End="32" ID="13670040" Source="WordNet" Start="22" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=comparison"/>
+<Annotation Content="Comparison" End="32" ID="4690984" Source="WordNet" Start="22" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=comparison"/>
+<Annotation Content="(p-value" End="41" ID="14455260" Source="WordNet" Start="33" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=phosphorus"/>
+<Annotation Content="(p-value" End="41" ID="6740967" Source="WordNet" Start="33" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=P"/>
+</Annotations>
+<CellType>Text</CellType>
+<StubRef>0.0</StubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>0</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>1.0</CellID>
+<CellValue>Intervention (n = 17)</CellValue>
+<Annotations>
+<Annotation Content="17" End="20" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="18" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="17" End="20" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="18" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="Intervention" End="12" ID="1224573" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=intervention"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>0.0</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>1</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>1.1</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>0.1</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>1.0</StubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>1</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>1.2</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>0.2</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>1.0</StubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>1</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>1.3</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>0.3</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<StubRef>1.0</StubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>1</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>2.0</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>1.0</HeaderRef>
+<HeadStubRef>1.0</HeadStubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>2</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>2.1</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>1.1</HeaderRef>
+<HeadStubRef>1.0</HeadStubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>2</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>2.2</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>1.2</HeaderRef>
+<HeadStubRef>1.0</HeadStubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>2</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>2.3</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>1.3</HeaderRef>
+<HeadStubRef>1.0</HeadStubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>2</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>3.0</CellID>
+<CellValue>Primary Outcome‡</CellValue>
+<Annotations>
+<Annotation Content="Primary" End="7" ID="1918352" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=primary"/>
+<Annotation Content="Primary" End="7" ID="735935" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=primary"/>
+<Annotation Content="Primary" End="7" ID="1325646" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=chief(a)"/>
+<Annotation Content="Primary" End="7" ID="1922243" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=elementary"/>
+<Annotation Content="Primary" End="7" ID="939804" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=basal"/>
+<Annotation Content="Outcome‡" End="16" ID="7192761" Source="WordNet" Start="8" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=result"/>
+<Annotation Content="Outcome‡" End="16" ID="11246064" Source="WordNet" Start="8" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=consequence"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>2.0</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+<CellRole>SuperRow</CellRole>
+</CellRoles>
+<CellRowNum>3</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>3.1</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.1</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>3.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>3</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>3.2</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.2</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>3.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>3</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>3.3</CellID>
+<CellValue>0.008</CellValue>
+<Annotations>
+<Annotation Content="0.008" End="5" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="0.008" End="5" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Numeric</CellType>
+<HeaderRef>2.3</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>3.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>3</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>4.0</CellID>
+<SuperRowRef>3.0</SuperRowRef>
+<CellValue> Properly specified</CellValue>
+<Annotations>
+<Annotation Content="Properly" End="9" ID="197726" Source="WordNet" Start="1" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=properly"/>
+<Annotation Content="Properly" End="9" ID="508510" Source="WordNet" Start="1" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=by_rights"/>
+<Annotation Content="specified" End="19" ID="1008846" Source="WordNet" Start="10" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=stipulate"/>
+<Annotation Content="specified" End="19" ID="2586524" Source="WordNet" Start="10" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=specify"/>
+<Annotation Content="specified" End="19" ID="937554" Source="WordNet" Start="10" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=specify"/>
+<Annotation Content="specified" End="19" ID="1011891" Source="WordNet" Start="10" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=specify"/>
+<Annotation Content="specified" End="19" ID="707443" Source="WordNet" Start="10" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=pin_down"/>
+<Annotation Content="specified" End="19" ID="701278" Source="WordNet" Start="10" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=intend"/>
+<Annotation Content="specified" End="19" ID="669649" Source="WordNet" Start="10" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=assign"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>2.0</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>4</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>4.1</CellID>
+<SuperRowRef>3.0</SuperRowRef>
+<CellValue>3 (17.7)</CellValue>
+<Annotations>
+<Annotation Content="3" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="17.7" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="3" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="17.7" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.1</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>4.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>4</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>4.2</CellID>
+<SuperRowRef>3.0</SuperRowRef>
+<CellValue>10 (58.8)</CellValue>
+<Annotations>
+<Annotation Content="10" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="58.8" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="10" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="58.8" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.2</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>4.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>4</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>4.3</CellID>
+<SuperRowRef>3.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.3</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>4.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>4</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>5.0</CellID>
+<SuperRowRef>3.0</SuperRowRef>
+<CellValue> Mis-specified</CellValue>
+<Annotations/>
+<CellType>Text</CellType>
+<HeaderRef>2.0</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>5</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>5.1</CellID>
+<SuperRowRef>3.0</SuperRowRef>
+<CellValue>14 (82.4)</CellValue>
+<Annotations>
+<Annotation Content="14" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="82.4" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="14" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="82.4" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.1</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>5.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>5</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>5.2</CellID>
+<SuperRowRef>3.0</SuperRowRef>
+<CellValue>7 (41.2)</CellValue>
+<Annotations>
+<Annotation Content="7" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="41.2" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="7" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="41.2" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.2</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>5.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>5</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>5.3</CellID>
+<SuperRowRef>3.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.3</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>5.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>5</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>6.0</CellID>
+<CellValue>Secondary Outcomes</CellValue>
+<Annotations>
+<Annotation Content="Secondary" End="9" ID="1919639" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=secondary"/>
+<Annotation Content="Secondary" End="9" ID="2175391" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=junior-grade"/>
+<Annotation Content="Secondary" End="9" ID="1923915" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=secondary"/>
+<Annotation Content="Secondary" End="9" ID="1527037" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=secondary"/>
+<Annotation Content="Secondary" End="9" ID="831817" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=secondary"/>
+<Annotation Content="Outcomes" End="18" ID="7192761" Source="WordNet" Start="10" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=result"/>
+<Annotation Content="Outcomes" End="18" ID="11246064" Source="WordNet" Start="10" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=consequence"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>2.0</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+<CellRole>SuperRow</CellRole>
+</CellRoles>
+<CellRowNum>6</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>6.1</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.1</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>6.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>6</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>6.2</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.2</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>6.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>6</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>6.3</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.3</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>6.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>6</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>7.0</CellID>
+<SuperRowRef>6.0</SuperRowRef>
+<CellValue> Patient</CellValue>
+<Annotations>
+<Annotation Content="Patient" End="8" ID="10250423" Source="WordNet" Start="1" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=patient"/>
+<Annotation Content="Patient" End="8" ID="6247374" Source="WordNet" Start="1" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=affected_role"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>2.0</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+<CellRole>SuperRow</CellRole>
+</CellRoles>
+<CellRowNum>7</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>7.1</CellID>
+<SuperRowRef>6.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.1</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>7.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>7</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>7.2</CellID>
+<SuperRowRef>6.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.2</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>7.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>7</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>7.3</CellID>
+<SuperRowRef>6.0</SuperRowRef>
+<CellValue>0.028</CellValue>
+<Annotations>
+<Annotation Content="0.028" End="5" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="0.028" End="5" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Numeric</CellType>
+<HeaderRef>2.3</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>7.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>7</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>8.0</CellID>
+<SuperRowRef>7.0</SuperRowRef>
+<CellValue>  Absent</CellValue>
+<Annotations>
+<Annotation Content="Absent" End="8" ID="1913530" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=absent"/>
+<Annotation Content="Absent" End="8" ID="185657" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=absent"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>2.0</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>8</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>8.1</CellID>
+<SuperRowRef>7.0</SuperRowRef>
+<CellValue>5 (29.4)</CellValue>
+<Annotations>
+<Annotation Content="5" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="29.4" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="5" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="29.4" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.1</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>8.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>8</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>8.2</CellID>
+<SuperRowRef>7.0</SuperRowRef>
+<CellValue>2 (11.8)</CellValue>
+<Annotations>
+<Annotation Content="2" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="11.8" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="2" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="11.8" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.2</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>8.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>8</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>8.3</CellID>
+<SuperRowRef>7.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.3</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>8.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>8</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>9.0</CellID>
+<SuperRowRef>7.0</SuperRowRef>
+<CellValue>  Broad</CellValue>
+<Annotations>
+<Annotation Content="Broad" End="7" ID="9730018" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=broad"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>2.0</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>9</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>9.1</CellID>
+<SuperRowRef>7.0</SuperRowRef>
+<CellValue>9 (52.9)</CellValue>
+<Annotations>
+<Annotation Content="9" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="52.9" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="9" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="52.9" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.1</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>9.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>9</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>9.2</CellID>
+<SuperRowRef>7.0</SuperRowRef>
+<CellValue>5 (29.4)</CellValue>
+<Annotations>
+<Annotation Content="5" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="29.4" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="5" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="29.4" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.2</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>9.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>9</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>9.3</CellID>
+<SuperRowRef>7.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.3</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>9.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>9</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>10.0</CellID>
+<SuperRowRef>7.0</SuperRowRef>
+<CellValue>  Specific</CellValue>
+<Annotations>
+<Annotation Content="Specific" End="10" ID="5745421" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=particular"/>
+<Annotation Content="Specific" End="10" ID="4221090" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=specific"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>2.0</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>10</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>10.1</CellID>
+<SuperRowRef>7.0</SuperRowRef>
+<CellValue>3 (17.7)</CellValue>
+<Annotations>
+<Annotation Content="3" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="17.7" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="3" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="17.7" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.1</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>10.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>10</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>10.2</CellID>
+<SuperRowRef>7.0</SuperRowRef>
+<CellValue>10 (58.8)</CellValue>
+<Annotations>
+<Annotation Content="10" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="58.8" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="10" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="58.8" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.2</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>10.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>10</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>10.3</CellID>
+<SuperRowRef>7.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.3</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>10.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>10</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>11.0</CellID>
+<SuperRowRef>6.0</SuperRowRef>
+<CellValue> Intervention</CellValue>
+<Annotations>
+<Annotation Content="Intervention" End="13" ID="1224573" Source="WordNet" Start="1" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=intervention"/>
+<Annotation Content="Intervention" End="13" ID="6572675" Source="WordNet" Start="1" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=intervention"/>
+<Annotation Content="Intervention" End="13" ID="1009018" Source="WordNet" Start="1" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=intervention"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>2.0</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+<CellRole>SuperRow</CellRole>
+</CellRoles>
+<CellRowNum>11</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>11.1</CellID>
+<SuperRowRef>6.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.1</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>11.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>11</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>11.2</CellID>
+<SuperRowRef>6.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.2</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>11.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>11</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>11.3</CellID>
+<SuperRowRef>6.0</SuperRowRef>
+<CellValue>0.157</CellValue>
+<Annotations>
+<Annotation Content="0.157" End="5" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="0.157" End="5" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Numeric</CellType>
+<HeaderRef>2.3</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>11.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>11</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>12.0</CellID>
+<SuperRowRef>11.0</SuperRowRef>
+<CellValue>  Absent</CellValue>
+<Annotations>
+<Annotation Content="Absent" End="8" ID="1913530" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=absent"/>
+<Annotation Content="Absent" End="8" ID="185657" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=absent"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>2.0</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>12</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>12.1</CellID>
+<SuperRowRef>11.0</SuperRowRef>
+<CellValue>0 (0.0)</CellValue>
+<Annotations>
+<Annotation Content="0" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="0.0" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="0" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="0.0" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.1</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>12.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>12</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>12.2</CellID>
+<SuperRowRef>11.0</SuperRowRef>
+<CellValue>0 (0.0)</CellValue>
+<Annotations>
+<Annotation Content="0" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="0.0" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="0" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="0.0" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.2</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>12.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>12</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>12.3</CellID>
+<SuperRowRef>11.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.3</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>12.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>12</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>13.0</CellID>
+<SuperRowRef>11.0</SuperRowRef>
+<CellValue>  Broad</CellValue>
+<Annotations>
+<Annotation Content="Broad" End="7" ID="9730018" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=broad"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>2.0</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>13</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>13.1</CellID>
+<SuperRowRef>11.0</SuperRowRef>
+<CellValue>6 (35.3)</CellValue>
+<Annotations>
+<Annotation Content="6" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="35.3" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="6" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="35.3" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.1</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>13.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>13</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>13.2</CellID>
+<SuperRowRef>11.0</SuperRowRef>
+<CellValue>4 (23.5)</CellValue>
+<Annotations>
+<Annotation Content="4" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="23.5" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="4" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="23.5" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.2</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>13.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>13</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>13.3</CellID>
+<SuperRowRef>11.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.3</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>13.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>13</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>14.0</CellID>
+<SuperRowRef>11.0</SuperRowRef>
+<CellValue>  Specific</CellValue>
+<Annotations>
+<Annotation Content="Specific" End="10" ID="5745421" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=particular"/>
+<Annotation Content="Specific" End="10" ID="4221090" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=specific"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>2.0</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>14</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>14.1</CellID>
+<SuperRowRef>11.0</SuperRowRef>
+<CellValue>11 (64.7)</CellValue>
+<Annotations>
+<Annotation Content="11" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="64.7" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="11" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="64.7" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.1</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>14.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>14</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>14.2</CellID>
+<SuperRowRef>11.0</SuperRowRef>
+<CellValue>13 (76.5)</CellValue>
+<Annotations>
+<Annotation Content="13" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="76.5" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="13" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="76.5" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.2</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>14.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>14</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>14.3</CellID>
+<SuperRowRef>11.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.3</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>14.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>14</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>15.0</CellID>
+<SuperRowRef>6.0</SuperRowRef>
+<CellValue> Comparison</CellValue>
+<Annotations>
+<Annotation Content="Comparison" End="11" ID="140066" Source="WordNet" Start="1" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=comparison"/>
+<Annotation Content="Comparison" End="11" ID="13670040" Source="WordNet" Start="1" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=comparison"/>
+<Annotation Content="Comparison" End="11" ID="4690984" Source="WordNet" Start="1" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=comparison"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>2.0</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+<CellRole>SuperRow</CellRole>
+</CellRoles>
+<CellRowNum>15</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>15.1</CellID>
+<SuperRowRef>6.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.1</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>15.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>15</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>15.2</CellID>
+<SuperRowRef>6.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.2</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>15.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>15</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>15.3</CellID>
+<SuperRowRef>6.0</SuperRowRef>
+<CellValue>0.014</CellValue>
+<Annotations>
+<Annotation Content="0.014" End="5" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="0.014" End="5" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Numeric</CellType>
+<HeaderRef>2.3</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>15.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>15</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>16.0</CellID>
+<SuperRowRef>15.0</SuperRowRef>
+<CellValue>  Absent</CellValue>
+<Annotations>
+<Annotation Content="Absent" End="8" ID="1913530" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=absent"/>
+<Annotation Content="Absent" End="8" ID="185657" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=absent"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>2.0</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>16</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>16.1</CellID>
+<SuperRowRef>15.0</SuperRowRef>
+<CellValue>11 (64.7)</CellValue>
+<Annotations>
+<Annotation Content="11" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="64.7" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="11" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="64.7" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.1</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>16.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>16</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>16.2</CellID>
+<SuperRowRef>15.0</SuperRowRef>
+<CellValue>5 (29.4)</CellValue>
+<Annotations>
+<Annotation Content="5" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="29.4" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="5" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="29.4" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.2</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>16.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>16</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>16.3</CellID>
+<SuperRowRef>15.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.3</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>16.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>16</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>17.0</CellID>
+<SuperRowRef>15.0</SuperRowRef>
+<CellValue>  Broad</CellValue>
+<Annotations>
+<Annotation Content="Broad" End="7" ID="9730018" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=broad"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>2.0</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>17</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>17.1</CellID>
+<SuperRowRef>15.0</SuperRowRef>
+<CellValue>0 (0.0)</CellValue>
+<Annotations>
+<Annotation Content="0" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="0.0" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="0" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="0.0" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.1</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>17.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>17</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>17.2</CellID>
+<SuperRowRef>15.0</SuperRowRef>
+<CellValue>0 (0.0)</CellValue>
+<Annotations>
+<Annotation Content="0" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="0.0" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="0" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="0.0" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.2</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>17.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>17</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>17.3</CellID>
+<SuperRowRef>15.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.3</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>17.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>17</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>18.0</CellID>
+<SuperRowRef>15.0</SuperRowRef>
+<CellValue>  Specific</CellValue>
+<Annotations>
+<Annotation Content="Specific" End="10" ID="5745421" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=particular"/>
+<Annotation Content="Specific" End="10" ID="4221090" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=specific"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>2.0</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>18</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>18.1</CellID>
+<SuperRowRef>15.0</SuperRowRef>
+<CellValue>6 (35.3)</CellValue>
+<Annotations>
+<Annotation Content="6" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="35.3" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="6" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="35.3" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.1</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>18.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>18</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>18.2</CellID>
+<SuperRowRef>15.0</SuperRowRef>
+<CellValue>12 (70.6)</CellValue>
+<Annotations>
+<Annotation Content="12" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="70.6" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="12" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="70.6" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.2</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>18.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>18</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>18.3</CellID>
+<SuperRowRef>15.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.3</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>18.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>18</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>19.0</CellID>
+<SuperRowRef>6.0</SuperRowRef>
+<CellValue> Outcome</CellValue>
+<Annotations/>
+<CellType>Text</CellType>
+<HeaderRef>2.0</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+<CellRole>SuperRow</CellRole>
+</CellRoles>
+<CellRowNum>19</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>19.1</CellID>
+<SuperRowRef>6.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.1</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>19.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>19</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>19.2</CellID>
+<SuperRowRef>6.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.2</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>19.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>19</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>19.3</CellID>
+<SuperRowRef>6.0</SuperRowRef>
+<CellValue>0.008</CellValue>
+<Annotations>
+<Annotation Content="0.008" End="5" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="0.008" End="5" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Numeric</CellType>
+<HeaderRef>2.3</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>19.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>19</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>20.0</CellID>
+<SuperRowRef>19.0</SuperRowRef>
+<CellValue>  Absent</CellValue>
+<Annotations>
+<Annotation Content="Absent" End="8" ID="1913530" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=absent"/>
+<Annotation Content="Absent" End="8" ID="185657" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=absent"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>2.0</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>20</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>20.1</CellID>
+<SuperRowRef>19.0</SuperRowRef>
+<CellValue>3 (17.7)</CellValue>
+<Annotations>
+<Annotation Content="3" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="17.7" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="3" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="17.7" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.1</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>20.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>20</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>20.2</CellID>
+<SuperRowRef>19.0</SuperRowRef>
+<CellValue>1 (5.9)</CellValue>
+<Annotations>
+<Annotation Content="1" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="5.9" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="1" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="5.9" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.2</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>20.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>20</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>20.3</CellID>
+<SuperRowRef>19.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.3</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>20.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>20</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>21.0</CellID>
+<SuperRowRef>19.0</SuperRowRef>
+<CellValue>  Broad</CellValue>
+<Annotations>
+<Annotation Content="Broad" End="7" ID="9730018" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=broad"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>2.0</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>21</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>21.1</CellID>
+<SuperRowRef>19.0</SuperRowRef>
+<CellValue>11 (64.7)</CellValue>
+<Annotations>
+<Annotation Content="11" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="64.7" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="11" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="64.7" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.1</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>21.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>21</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>21.2</CellID>
+<SuperRowRef>19.0</SuperRowRef>
+<CellValue>7 (41.2)</CellValue>
+<Annotations>
+<Annotation Content="7" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="41.2" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="7" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="41.2" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.2</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>21.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>21</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>21.3</CellID>
+<SuperRowRef>19.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.3</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>21.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>21</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>22.0</CellID>
+<SuperRowRef>19.0</SuperRowRef>
+<CellValue>  Specific</CellValue>
+<Annotations>
+<Annotation Content="Specific" End="10" ID="5745421" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=particular"/>
+<Annotation Content="Specific" End="10" ID="4221090" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=specific"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>2.0</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>22</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>22.1</CellID>
+<SuperRowRef>19.0</SuperRowRef>
+<CellValue>3 (17.7)</CellValue>
+<Annotations>
+<Annotation Content="3" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="17.7" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="3" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="17.7" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.1</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>22.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>22</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>22.2</CellID>
+<SuperRowRef>19.0</SuperRowRef>
+<CellValue>9 (52.9)</CellValue>
+<Annotations>
+<Annotation Content="9" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="52.9" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="9" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="52.9" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>2.2</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>22.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>22</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>22.3</CellID>
+<SuperRowRef>19.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>2.3</HeaderRef>
+<HeadStubRef>2.0</HeadStubRef>
+<StubRef>22.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>22</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>23.0</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>0.0</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>23</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>23.1</CellID>
+<HeaderRef>0.1</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>23</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>23.2</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>0.2</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>23</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>23.3</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>0.2</HeaderRef>
+<HeadStubRef>0.0</HeadStubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>23</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>24.0</CellID>
+<CellValue>Control Group (n = 22)</CellValue>
+<Annotations>
+<Annotation Content="22" End="21" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="19" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="22" End="21" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="19" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="Control" End="7" ID="13645433" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=control"/>
+<Annotation Content="Group" End="13" ID="29714" Source="WordNet" Start="8" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=group"/>
+<Annotation Content="n" End="16" ID="13406268" Source="WordNet" Start="15" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=normality"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>23.0</HeaderRef>
+<HeadStubRef>23.0</HeadStubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>24</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>24.1</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>23.1</HeaderRef>
+<HeadStubRef>23.0</HeadStubRef>
+<StubRef>24.0</StubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>24</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>24.2</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>23.2</HeaderRef>
+<HeadStubRef>23.0</HeadStubRef>
+<StubRef>24.0</StubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>24</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>24.3</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>23.3</HeaderRef>
+<HeadStubRef>23.0</HeadStubRef>
+<StubRef>24.0</StubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>24</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>25.0</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>24.0</HeaderRef>
+<HeadStubRef>24.0</HeadStubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>25</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>25.1</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>24.1</HeaderRef>
+<HeadStubRef>24.0</HeadStubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>25</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>25.2</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>24.2</HeaderRef>
+<HeadStubRef>24.0</HeadStubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>25</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>25.3</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>24.3</HeaderRef>
+<HeadStubRef>24.0</HeadStubRef>
+<CellRoles>
+<CellRole>Header</CellRole>
+</CellRoles>
+<CellRowNum>25</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>26.0</CellID>
+<CellValue>Primary Outcome‡</CellValue>
+<Annotations>
+<Annotation Content="Primary" End="7" ID="1918352" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=primary"/>
+<Annotation Content="Primary" End="7" ID="735935" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=primary"/>
+<Annotation Content="Primary" End="7" ID="1325646" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=chief(a)"/>
+<Annotation Content="Primary" End="7" ID="1922243" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=elementary"/>
+<Annotation Content="Primary" End="7" ID="939804" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=basal"/>
+<Annotation Content="Outcome‡" End="16" ID="7192761" Source="WordNet" Start="8" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=result"/>
+<Annotation Content="Outcome‡" End="16" ID="11246064" Source="WordNet" Start="8" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=consequence"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>25.0</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+<CellRole>SuperRow</CellRole>
+</CellRoles>
+<CellRowNum>26</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>26.1</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.1</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>26.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>26</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>26.2</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.2</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>26.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>26</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>26.3</CellID>
+<CellValue>--</CellValue>
+<Annotations/>
+<CellType>Text</CellType>
+<HeaderRef>25.3</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>26.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>26</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>27.0</CellID>
+<SuperRowRef>26.0</SuperRowRef>
+<CellValue> Properly specified</CellValue>
+<Annotations>
+<Annotation Content="Properly" End="9" ID="197726" Source="WordNet" Start="1" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=properly"/>
+<Annotation Content="Properly" End="9" ID="508510" Source="WordNet" Start="1" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=by_rights"/>
+<Annotation Content="specified" End="19" ID="1008846" Source="WordNet" Start="10" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=stipulate"/>
+<Annotation Content="specified" End="19" ID="2586524" Source="WordNet" Start="10" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=specify"/>
+<Annotation Content="specified" End="19" ID="937554" Source="WordNet" Start="10" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=specify"/>
+<Annotation Content="specified" End="19" ID="1011891" Source="WordNet" Start="10" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=specify"/>
+<Annotation Content="specified" End="19" ID="707443" Source="WordNet" Start="10" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=pin_down"/>
+<Annotation Content="specified" End="19" ID="701278" Source="WordNet" Start="10" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=intend"/>
+<Annotation Content="specified" End="19" ID="669649" Source="WordNet" Start="10" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=assign"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>25.0</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>27</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>27.1</CellID>
+<SuperRowRef>26.0</SuperRowRef>
+<CellValue>5 (22.7)</CellValue>
+<Annotations>
+<Annotation Content="5" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="22.7" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="5" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="22.7" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.1</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>27.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>27</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>27.2</CellID>
+<SuperRowRef>26.0</SuperRowRef>
+<CellValue>5 (22.7)</CellValue>
+<Annotations>
+<Annotation Content="5" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="22.7" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="5" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="22.7" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.2</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>27.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>27</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>27.3</CellID>
+<SuperRowRef>26.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.3</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>27.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>27</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>28.0</CellID>
+<SuperRowRef>26.0</SuperRowRef>
+<CellValue> Mis-specified</CellValue>
+<Annotations/>
+<CellType>Text</CellType>
+<HeaderRef>25.0</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>28</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>28.1</CellID>
+<SuperRowRef>26.0</SuperRowRef>
+<CellValue>17 (77.3)</CellValue>
+<Annotations>
+<Annotation Content="17" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="77.3" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="17" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="77.3" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.1</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>28.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>28</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>28.2</CellID>
+<SuperRowRef>26.0</SuperRowRef>
+<CellValue>17 (77.3)</CellValue>
+<Annotations>
+<Annotation Content="17" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="77.3" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="17" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="77.3" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.2</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>28.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>28</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>28.3</CellID>
+<SuperRowRef>26.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.3</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>28.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>28</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>29.0</CellID>
+<CellValue>Secondary Outcomes</CellValue>
+<Annotations>
+<Annotation Content="Secondary" End="9" ID="1919639" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=secondary"/>
+<Annotation Content="Secondary" End="9" ID="2175391" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=junior-grade"/>
+<Annotation Content="Secondary" End="9" ID="1923915" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=secondary"/>
+<Annotation Content="Secondary" End="9" ID="1527037" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=secondary"/>
+<Annotation Content="Secondary" End="9" ID="831817" Source="WordNet" Start="0" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=secondary"/>
+<Annotation Content="Outcomes" End="18" ID="7192761" Source="WordNet" Start="10" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=result"/>
+<Annotation Content="Outcomes" End="18" ID="11246064" Source="WordNet" Start="10" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=consequence"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>25.0</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+<CellRole>SuperRow</CellRole>
+</CellRoles>
+<CellRowNum>29</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>29.1</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.1</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>29.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>29</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>29.2</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.2</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>29.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>29</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>29.3</CellID>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.3</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>29.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>29</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>30.0</CellID>
+<SuperRowRef>29.0</SuperRowRef>
+<CellValue> Patient</CellValue>
+<Annotations>
+<Annotation Content="Patient" End="8" ID="10250423" Source="WordNet" Start="1" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=patient"/>
+<Annotation Content="Patient" End="8" ID="6247374" Source="WordNet" Start="1" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=affected_role"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>25.0</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+<CellRole>SuperRow</CellRole>
+</CellRoles>
+<CellRowNum>30</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>30.1</CellID>
+<SuperRowRef>29.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.1</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>30.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>30</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>30.2</CellID>
+<SuperRowRef>29.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.2</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>30.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>30</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>30.3</CellID>
+<SuperRowRef>29.0</SuperRowRef>
+<CellValue>0.083</CellValue>
+<Annotations>
+<Annotation Content="0.083" End="5" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="0.083" End="5" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Numeric</CellType>
+<HeaderRef>25.3</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>30.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>30</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>31.0</CellID>
+<SuperRowRef>30.0</SuperRowRef>
+<CellValue>  Absent</CellValue>
+<Annotations>
+<Annotation Content="Absent" End="8" ID="1913530" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=absent"/>
+<Annotation Content="Absent" End="8" ID="185657" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=absent"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>25.0</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>31</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>31.1</CellID>
+<SuperRowRef>30.0</SuperRowRef>
+<CellValue>5 (22.7)</CellValue>
+<Annotations>
+<Annotation Content="5" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="22.7" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="5" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="22.7" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.1</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>31.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>31</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>31.2</CellID>
+<SuperRowRef>30.0</SuperRowRef>
+<CellValue>4 (18.2)</CellValue>
+<Annotations>
+<Annotation Content="4" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="18.2" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="4" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="18.2" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.2</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>31.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>31</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>31.3</CellID>
+<SuperRowRef>30.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.3</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>31.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>31</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>32.0</CellID>
+<SuperRowRef>30.0</SuperRowRef>
+<CellValue>  Broad</CellValue>
+<Annotations>
+<Annotation Content="Broad" End="7" ID="9730018" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=broad"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>25.0</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>32</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>32.1</CellID>
+<SuperRowRef>30.0</SuperRowRef>
+<CellValue>12 (54.6)</CellValue>
+<Annotations>
+<Annotation Content="12" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="54.6" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="12" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="54.6" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.1</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>32.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>32</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>32.2</CellID>
+<SuperRowRef>30.0</SuperRowRef>
+<CellValue>11 (50.0)</CellValue>
+<Annotations>
+<Annotation Content="11" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="50.0" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="11" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="50.0" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.2</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>32.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>32</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>32.3</CellID>
+<SuperRowRef>30.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.3</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>32.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>32</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>33.0</CellID>
+<SuperRowRef>30.0</SuperRowRef>
+<CellValue>  Specific</CellValue>
+<Annotations>
+<Annotation Content="Specific" End="10" ID="5745421" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=particular"/>
+<Annotation Content="Specific" End="10" ID="4221090" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=specific"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>25.0</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>33</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>33.1</CellID>
+<SuperRowRef>30.0</SuperRowRef>
+<CellValue>5 (22.7)</CellValue>
+<Annotations>
+<Annotation Content="5" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="22.7" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="5" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="22.7" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.1</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>33.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>33</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>33.2</CellID>
+<SuperRowRef>30.0</SuperRowRef>
+<CellValue>7 (31.8)</CellValue>
+<Annotations>
+<Annotation Content="7" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="31.8" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="7" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="31.8" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.2</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>33.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>33</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>33.3</CellID>
+<SuperRowRef>30.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.3</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>33.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>33</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>34.0</CellID>
+<SuperRowRef>29.0</SuperRowRef>
+<CellValue> Intervention</CellValue>
+<Annotations>
+<Annotation Content="Intervention" End="13" ID="1224573" Source="WordNet" Start="1" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=intervention"/>
+<Annotation Content="Intervention" End="13" ID="6572675" Source="WordNet" Start="1" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=intervention"/>
+<Annotation Content="Intervention" End="13" ID="1009018" Source="WordNet" Start="1" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=intervention"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>25.0</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+<CellRole>SuperRow</CellRole>
+</CellRoles>
+<CellRowNum>34</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>34.1</CellID>
+<SuperRowRef>29.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.1</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>34.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>34</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>34.2</CellID>
+<SuperRowRef>29.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.2</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>34.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>34</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>34.3</CellID>
+<SuperRowRef>29.0</SuperRowRef>
+<CellValue>0.564</CellValue>
+<Annotations>
+<Annotation Content="0.564" End="5" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="0.564" End="5" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Numeric</CellType>
+<HeaderRef>25.3</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>34.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>34</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>35.0</CellID>
+<SuperRowRef>34.0</SuperRowRef>
+<CellValue>  Absent</CellValue>
+<Annotations>
+<Annotation Content="Absent" End="8" ID="1913530" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=absent"/>
+<Annotation Content="Absent" End="8" ID="185657" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=absent"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>25.0</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>35</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>35.1</CellID>
+<SuperRowRef>34.0</SuperRowRef>
+<CellValue>2 (9.1)</CellValue>
+<Annotations>
+<Annotation Content="2" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="9.1" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="2" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="9.1" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.1</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>35.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>35</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>35.2</CellID>
+<SuperRowRef>34.0</SuperRowRef>
+<CellValue>1 (4.6)</CellValue>
+<Annotations>
+<Annotation Content="1" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="4.6" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="1" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="4.6" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.2</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>35.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>35</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>35.3</CellID>
+<SuperRowRef>34.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.3</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>35.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>35</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>36.0</CellID>
+<SuperRowRef>34.0</SuperRowRef>
+<CellValue>  Broad</CellValue>
+<Annotations>
+<Annotation Content="Broad" End="7" ID="9730018" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=broad"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>25.0</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>36</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>36.1</CellID>
+<SuperRowRef>34.0</SuperRowRef>
+<CellValue>10 (45.5)</CellValue>
+<Annotations>
+<Annotation Content="10" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="45.5" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="10" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="45.5" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.1</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>36.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>36</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>36.2</CellID>
+<SuperRowRef>34.0</SuperRowRef>
+<CellValue>11 (50.0)</CellValue>
+<Annotations>
+<Annotation Content="11" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="50.0" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="11" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="50.0" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.2</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>36.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>36</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>36.3</CellID>
+<SuperRowRef>34.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.3</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>36.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>36</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>37.0</CellID>
+<SuperRowRef>34.0</SuperRowRef>
+<CellValue>  Specific</CellValue>
+<Annotations>
+<Annotation Content="Specific" End="10" ID="5745421" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=particular"/>
+<Annotation Content="Specific" End="10" ID="4221090" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=specific"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>25.0</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>37</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>37.1</CellID>
+<SuperRowRef>34.0</SuperRowRef>
+<CellValue>10 (45.5)</CellValue>
+<Annotations>
+<Annotation Content="10" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="45.5" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="10" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="45.5" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.1</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>37.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>37</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>37.2</CellID>
+<SuperRowRef>34.0</SuperRowRef>
+<CellValue>10 (45.5)</CellValue>
+<Annotations>
+<Annotation Content="10" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="45.5" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="10" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="45.5" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.2</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>37.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>37</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>37.3</CellID>
+<SuperRowRef>34.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.3</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>37.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>37</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>38.0</CellID>
+<SuperRowRef>29.0</SuperRowRef>
+<CellValue> Comparison</CellValue>
+<Annotations>
+<Annotation Content="Comparison" End="11" ID="140066" Source="WordNet" Start="1" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=comparison"/>
+<Annotation Content="Comparison" End="11" ID="13670040" Source="WordNet" Start="1" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=comparison"/>
+<Annotation Content="Comparison" End="11" ID="4690984" Source="WordNet" Start="1" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=comparison"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>25.0</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+<CellRole>SuperRow</CellRole>
+</CellRoles>
+<CellRowNum>38</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>38.1</CellID>
+<SuperRowRef>29.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.1</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>38.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>38</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>38.2</CellID>
+<SuperRowRef>29.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.2</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>38.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>38</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>38.3</CellID>
+<SuperRowRef>29.0</SuperRowRef>
+<CellValue>0.974</CellValue>
+<Annotations>
+<Annotation Content="0.974" End="5" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="0.974" End="5" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Numeric</CellType>
+<HeaderRef>25.3</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>38.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>38</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>39.0</CellID>
+<SuperRowRef>38.0</SuperRowRef>
+<CellValue>  Absent</CellValue>
+<Annotations>
+<Annotation Content="Absent" End="8" ID="1913530" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=absent"/>
+<Annotation Content="Absent" End="8" ID="185657" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=absent"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>25.0</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>39</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>39.1</CellID>
+<SuperRowRef>38.0</SuperRowRef>
+<CellValue>16 (72.7)</CellValue>
+<Annotations>
+<Annotation Content="16" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="72.7" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="16" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="72.7" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.1</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>39.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>39</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>39.2</CellID>
+<SuperRowRef>38.0</SuperRowRef>
+<CellValue>17 (77.3)</CellValue>
+<Annotations>
+<Annotation Content="17" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="77.3" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="17" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="77.3" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.2</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>39.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>39</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>39.3</CellID>
+<SuperRowRef>38.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.3</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>39.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>39</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>40.0</CellID>
+<SuperRowRef>38.0</SuperRowRef>
+<CellValue>  Broad</CellValue>
+<Annotations>
+<Annotation Content="Broad" End="7" ID="9730018" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=broad"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>25.0</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>40</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>40.1</CellID>
+<SuperRowRef>38.0</SuperRowRef>
+<CellValue>1 (4.6)</CellValue>
+<Annotations>
+<Annotation Content="1" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="4.6" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="1" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="4.6" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.1</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>40.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>40</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>40.2</CellID>
+<SuperRowRef>38.0</SuperRowRef>
+<CellValue>0 (0.0)</CellValue>
+<Annotations>
+<Annotation Content="0" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="0.0" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="0" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="0.0" End="6" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.2</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>40.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>40</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>40.3</CellID>
+<SuperRowRef>38.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.3</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>40.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>40</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>41.0</CellID>
+<SuperRowRef>38.0</SuperRowRef>
+<CellValue>  Specific</CellValue>
+<Annotations>
+<Annotation Content="Specific" End="10" ID="5745421" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=particular"/>
+<Annotation Content="Specific" End="10" ID="4221090" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=specific"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>25.0</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>41</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>41.1</CellID>
+<SuperRowRef>38.0</SuperRowRef>
+<CellValue>5 (22.7)</CellValue>
+<Annotations>
+<Annotation Content="5" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="22.7" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="5" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="22.7" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.1</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>41.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>41</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>41.2</CellID>
+<SuperRowRef>38.0</SuperRowRef>
+<CellValue>5 (22.7)</CellValue>
+<Annotations>
+<Annotation Content="5" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="22.7" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="5" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="22.7" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.2</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>41.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>41</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>41.3</CellID>
+<SuperRowRef>38.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.3</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>41.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>41</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>42.0</CellID>
+<SuperRowRef>29.0</SuperRowRef>
+<CellValue> Outcome</CellValue>
+<Annotations/>
+<CellType>Text</CellType>
+<HeaderRef>25.0</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+<CellRole>SuperRow</CellRole>
+</CellRoles>
+<CellRowNum>42</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>42.1</CellID>
+<SuperRowRef>29.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.1</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>42.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>42</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>42.2</CellID>
+<SuperRowRef>29.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.2</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>42.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>42</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>42.3</CellID>
+<SuperRowRef>29.0</SuperRowRef>
+<CellValue>0.961</CellValue>
+<Annotations>
+<Annotation Content="0.961" End="5" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="0.961" End="5" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Numeric</CellType>
+<HeaderRef>25.3</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>42.0</StubRef>
+<CellRoles>
+<CellRole>SuperRow</CellRole>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>42</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>43.0</CellID>
+<SuperRowRef>42.0</SuperRowRef>
+<CellValue>  Absent</CellValue>
+<Annotations>
+<Annotation Content="Absent" End="8" ID="1913530" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=absent"/>
+<Annotation Content="Absent" End="8" ID="185657" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=absent"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>25.0</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>43</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>43.1</CellID>
+<SuperRowRef>42.0</SuperRowRef>
+<CellValue>3 (13.6)</CellValue>
+<Annotations>
+<Annotation Content="3" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="13.6" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="3" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="13.6" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.1</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>43.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>43</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>43.2</CellID>
+<SuperRowRef>42.0</SuperRowRef>
+<CellValue>4 (18.2)</CellValue>
+<Annotations>
+<Annotation Content="4" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="18.2" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="4" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="18.2" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.2</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>43.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>43</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>43.3</CellID>
+<SuperRowRef>42.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.3</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>43.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>43</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>44.0</CellID>
+<SuperRowRef>42.0</SuperRowRef>
+<CellValue>  Broad</CellValue>
+<Annotations>
+<Annotation Content="Broad" End="7" ID="9730018" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=broad"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>25.0</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>44</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>44.1</CellID>
+<SuperRowRef>42.0</SuperRowRef>
+<CellValue>13 (59.1)</CellValue>
+<Annotations>
+<Annotation Content="13" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="59.1" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="13" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="59.1" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.1</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>44.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>44</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>44.2</CellID>
+<SuperRowRef>42.0</SuperRowRef>
+<CellValue>12 (54.6)</CellValue>
+<Annotations>
+<Annotation Content="12" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="54.6" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="12" End="2" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="54.6" End="8" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="4" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.2</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>44.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>44</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>44.3</CellID>
+<SuperRowRef>42.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.3</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>44.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>44</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>45.0</CellID>
+<SuperRowRef>42.0</SuperRowRef>
+<CellValue>  Specific</CellValue>
+<Annotations>
+<Annotation Content="Specific" End="10" ID="5745421" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=particular"/>
+<Annotation Content="Specific" End="10" ID="4221090" Source="WordNet" Start="2" Type="ValueSemantic" TypeVal="" URL="http://wordnetweb.princeton.edu/perl/webwn?s=specific"/>
+</Annotations>
+<CellType>Text</CellType>
+<HeaderRef>25.0</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<CellRoles>
+<CellRole>Stub</CellRole>
+</CellRoles>
+<CellRowNum>45</CellRowNum>
+<CellColumnNum>0</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>45.1</CellID>
+<SuperRowRef>42.0</SuperRowRef>
+<CellValue>6 (27.3)</CellValue>
+<Annotations>
+<Annotation Content="6" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="27.3" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="6" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="27.3" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.1</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>45.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>45</CellRowNum>
+<CellColumnNum>1</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>45.2</CellID>
+<SuperRowRef>42.0</SuperRowRef>
+<CellValue>6 (27.3)</CellValue>
+<Annotations>
+<Annotation Content="6" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="27.3" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="SINGLE" URL=""/>
+<Annotation Content="6" End="1" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="0" Type="ValueType" TypeVal="INTEGER" URL=""/>
+<Annotation Content="27.3" End="7" ID="" Source="TableAnnotatorSyntacticAnalizer" Start="3" Type="ValueType" TypeVal="FLOAT" URL=""/>
+</Annotations>
+<CellType>Partially Numeric</CellType>
+<HeaderRef>25.2</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>45.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>45</CellRowNum>
+<CellColumnNum>2</CellColumnNum>
+</Cell>
+<Cell>
+<CellID>45.3</CellID>
+<SuperRowRef>42.0</SuperRowRef>
+<CellValue/>
+<Annotations/>
+<CellType>Empty</CellType>
+<HeaderRef>25.3</HeaderRef>
+<HeadStubRef>25.0</HeadStubRef>
+<StubRef>45.0</StubRef>
+<CellRoles>
+<CellRole>Data</CellRole>
+</CellRoles>
+<CellRowNum>45</CellRowNum>
+<CellColumnNum>3</CellColumnNum>
+</Cell>
+</Cells>
+</Table>
+</Tables>
+</Article>

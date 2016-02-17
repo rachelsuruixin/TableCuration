@@ -1,0 +1,9 @@
+
+#all log files
+.log
+
+#cache files
+/Application/Runtime
+
+#upload files
+/Public/xmlFiles/

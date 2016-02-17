@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <base href="/">
+    <meta charset="UTF-8">
+     <load file='Public/Js/jquery-2.1.1.js'/>
+        <load file='Public/Js/jquery-2.1.1.min.js'/>
+    <title></title>
+</head>
+<body>
+<load file="Public/Bootstrap/css/bootstrap.min.css" />
+<!--
+<div style='border:1px #aaa solid; float:left;width:9%;height:700px;'>
+    <button type="button" class="btn btn-primary" style="width: 100px">previous</button>
+    <button type="button" class="btn btn-primary" style="width: 100px">next</button>
+</div>-->
+
+<div id='left' name='left' style='border:1px #aaa solid;margin-left: 30% ;
+margin-top:80px;float:left;width:40%;height:auto;'>
+    <form action="index.php/Home/Index/upload.html" enctype="multipart/form-data" method="post" >
+        <table style="width: 50%;margin-left: 25%;margin-top: 3%">
+            <tr>
+                <td align="center" height="80px"><h1>Input file ....</h1></td>
+            </tr>
+            <tr >
+                <td height="80px">
+                    <input type="file" class="btn btn-default"  name="file1" />
+                    <label>standard file</label>
+                </td>
+            </tr>
+            <tr>
+                <td height="80px">
+                    <input type="file" class="btn btn-default"  name="file2" />
+                    <label>checking file</label>
+                </td>
+            </tr>
+            <tr>
+                <td height="80px">
+                    <input type="submit" class="btn btn-default"  style="float: right" value="submit">
+                </td>
+            </tr>
+        </table>
+
+
+
+    </form>
+</div>
+
+</body>
+</html>

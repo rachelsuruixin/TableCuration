@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <base href="/">
+    <meta charset="UTF-8">
+    <title></title>
+    <style type="text/css">
+        .td_class_0{
+            background-color: #9acfea;
+        }
+
+        .td_class_1{
+            background-color: #f0c040;
+        }
+        .td_class_2{
+            background-color: #e4b9c0;
+        }
+        .td_class_3{
+            background-color: #f2dede;
+        }
+        .tb_cell_span{
+
+            width : 100%;
+            height : 100%;
+            cursor:pointer;
+        }
+        .tb_content{
+            display:none;
+        }
+        #select_style_bg{
+                    width:100%;
+                    height:100%;
+                    position:absolute;
+                    z-index:10;
+                    background-color:#000;
+                    filter:alpha(opacity=50);-moz-opacity:0.5;-khtml-opacity: 0.5;opacity: 0.5;
+                    display:none;
+
+                }
+        #select_style{
+            width:30%;
+            height:40%;
+            position:absolute;
+            z-index:11;
+            background-color:#fff;
+            margin-left:35%;
+            margin-top:10%;
+            display:none;
+            border: dashed #9acfea 2px;
+            border-radius: 5px;
+        }
+        #select_style_row{
+            width:30%;
+            height:40%;
+            position:absolute;
+            z-index:11;
+            background-color:#fff;
+            margin-left:35%;
+            margin-top:10%;
+            display:none;
+            border: dashed #9acfea 2px;
+            border-radius: 5px;
+        }
+
+    </style>
+
+    <load file='Public/Js/jquery-2.1.1.js'/>
+    <load file='Public/Js/jquery-2.1.1.min.js'/>
+    <load file='Public/Js/jquery.resizableColumns.js'/>
+    <load file='Public/Js/freeTable.js'/>
+    <load file="Public/Bootstrap/css/bootstrap.min.css" />
+    <load file="Public/Bootstrap/js/bootstrap.min.js" />
+
+</head>
+<body>
+
+<!--
+!-->
+<br />
+
+<div id='select_style_bg' >
+
+    <script>
+        var id_cell_role = 0;
+        var id_cell_row_start = 0;
+        var id_cell_row_row = 0;
+        var id_cell_row_num = 0;
+
+        function modifyCellRole(id){
+            id_cell_role = id;
+        }
+
+
+        function modifystyle(){
+
+            var v = $('#cellvalue').val();
+            $(id_cell_r+"_span").html(v);
+
+            switch(id_cell_role){
+
+                case 0:
+                    $(id_cell_r).css("backgroundColor","#9acfea");
+                    break;
+                case 1:
+                    $(id_cell_r).css("backgroundColor","#f0c040");
+                    break;
+
+                case 2:
+                    $(id_cell_r).css("backgroundColor","#e4b9c0");
+                    break;
+
+                case 3:
+                    $(id_cell_r).css("backgroundColor","#f2dede");
+                    break;
+            }
+
+            $('#select_style_bg').hide();
+            $('#select_style').hide();
+
+        }
+
+        function modifyRowRoleStyle(ro){
+
+            for(var i=1;i<=id_cell_row_num ;i++) {
+                var id_cell_r_id = '#tb_cell_r_'+id_cell_row_start+'_'+id_cell_row_row+'_'+i;
+
+                switch (ro) {
+
+                    case 0:
+                        $(id_cell_r_id).css("backgroundColor", "#9acfea");
+                        break;
+                    case 1:
+                        $(id_cell_r_id).css("backgroundColor", "#f0c040");
+                        break;
+
+                    case 2:
+                        $(id_cell_r_id).css("backgroundColor", "#e4b9c0");
+                        break;
+
+                    case 3:
+                        $(id_cell_r_id).css("backgroundColor", "#f2dede");
+                        break;
+                }
+            }
+            $('#select_style_bg').hide();
+            $('#select_style_row').hide();
+
+        }
+
+
+        function modifyclose(){
+
+            $('#select_style_bg').hide();
+            $('#select_style').hide();
+        }
+
+        function modify(i,j,k){
+            id_cell_r = '#tb_cell_r_'+i+'_'+j+'_'+k;
+            var aa = $(id_cell_r+"_span").text();
+
+            $('#cellvalue').val(aa);
+            $('#select_style_bg').show();
+            $('#select_style').show();
+
+        }
+
+        function modifyRowStyle(i,j,k){
+            if (event.button==2)
+            {
+                id_cell_row_start = i;
+                id_cell_row_row = j;
+                id_cell_row_num = k;
+                $('#select_style_bg').show();
+                $('#select_style_row').show();
+            }
+        }
+
+    </script>
+
+</div>
+<div id='select_style' >
+
+        <table style="width:80%;height: 100%">
+            <tr>
+                <td colspan="2" align="center" ><h2>modify value</h2></td>
+            </tr>
+            <tr>
+                <td width="30%" align="center"><h3>value</h3></td>
+                <td align="center"><input type="text" class="form-control" id="cellvalue" placeholder="Text input"></td>
+            </tr>
+            <tr>
+                <td  width="30%" align="center"><h3>role</h3></td>
+                <td align="center">
+                    <input type='button' onclick='modifyCellRole(1)'  style='margin-top:10%;margin-left:10%;width:25%;height:30px;background-color: #f0c040;' value="header" class="tb_class"/>
+                    <input type='button' onclick='modifyCellRole(2)'  style='margin-top:10%;width:25%;height:30px;background-color: #e4b9c0;' value="Stub" class="tb_class"/>
+                    <input type='button' onclick='modifyCellRole(3)'  style='margin-top:10%;width:25%;height:30px;background-color: #f2dede;' value="Data" class="tb_class"/>
+                </td>
+            </tr>
+            <tr>
+                <td  width="30%" height="100px;" align="center"></td>
+                <td  align="center">
+                    <button type="button" class="btn btn-primary" style="width: 100px" onclick='modifystyle()'>submit</button>
+                    <button type="button" class="btn btn-primary" style="width: 100px" onclick='modifyclose()'>cancel</button>
+                </td>
+            </tr>
+        </table>
+
+</div>
+
+<div id='select_style_row' style="height: auto;">
+
+    <table style="width:80%;margin-bottom: 50px;">
+        <tr>
+            <td align="center" ><h2>modify role</h2></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <input type='button' ondblclick ='modifyRowRoleStyle(1)'  style='margin-top:10%;margin-left:10%;width:25%;height:30px;background-color: #f0c040;' value="header" class="tb_class"/>
+                <input type='button' ondblclick ='modifyRowRoleStyle(2)'  style='margin-top:10%;width:25%;height:30px;background-color: #e4b9c0;' value="Stub" class="tb_class"/>
+                <input type='button' ondblclick ='modifyRowRoleStyle(3)'  style='margin-top:10%;width:25%;height:30px;background-color: #f2dede;' value="Data" class="tb_class"/>
+            </td>
+        </tr>
+
+    </table>
+
+</div>
+
+
+<div style='border:1px #aaa solid; float:left;margin-left:1%;width:9%;height:700px;'>
+
+    <div style="margin-top:20px;margin-left: 10px;width: 120px;">
+        <a href="index.php/Home/Index/index.html"><button type="button" class="btn btn-primary" style="width: 100px">choose file</button></a>
+    </div>
+
+    <div style="margin-top:20px;margin-left: 10px;width: 120px;">
+        <button type="button" class="btn btn-primary" style="width: 100px" onclick='addshow(0)'>previous</button>
+    </div>
+    <div style="margin-top:20px;margin-left: 10px;width: 120px;">
+        <button type="button" class="btn btn-primary" style="width: 100px" onclick='addshow(1)'>next</button>
+    </div>
+
+</div>
+<div id='left' name='left' style='border:1px #aaa solid;margin-left: 1% ;
+float:left;width:40%;padding-right:20px;height:700px'>
+
+<script>
+    var cellID_l;   //获取表格cell的ID值
+    var pos_cell_l;    //解析cellID为一个数组，获取行和列的位置
+    var tb_l = new Array(); //创建一个数组 存储表格中cell的值
+    var tb_style_l = new Array(); //存储表格中cell的数据的格式
+    var pos_row_l; //表格的行
+    var Pos_col_l; //表格的列
+    var num_l;     //表格中cell的个数
+    var tb_num_l = 0;
+
+</script>
+
+<script>
+    var tb_show_id_l = 0;
+    $('.tb_content').hide();
+    var id_cell_l;
+
+</script>
+
+
+<div>
+    <div>
+        <ul>
+            <li><span>Table:</span><br>
+                <ul>
+                  <!-- 循环遍历所有的表!-->
+                    <volist name="tb_info1" id="vo">
+                        <div id='tb_l_{$key}' class='tb_content' >
+                        <script>
+                            pos_row_l = 0;
+                            pos_col_l = 0;
+                            num_l = 0;
+                        </script>
+                        <!-- 解析表格中具体数据，cell !-->
+                        <volist name="vo.Cells.Cell" id="li">
+                            <script>
+                                num_l = num_l +1;
+                                cellID_l = ""+{$li.CellID};    //获取cellID
+                                pos_cell_l=cellID_l.split("."); //字符分割，解析CellID
+                                pos_row_l = parseInt(pos_cell_l[0])+1;   //获取行
+                                pos_col_l = parseInt(pos_cell_l[1])+1;   //获取列
+                               // document.write(pos_row);
+                                tb_l[num_l] = '{$li.CellValue}';    //  存储cell值
+                              //  tb_style[num] ='{$li.}';
+                                var flag_l = false;
+                                //document.write(tb[num]);
+                                tb_style_l[num_l] = 0;
+                            </script>
+
+
+                        </volist>
+
+                        {$vo.TableOrder}<br>
+                        {$vo.TableCaption}<br>
+
+                        <table  style="border:solid #add9c0; border-width:1px 0px 0px 1px;">
+                            <script>
+
+                                //显示表格
+                                for(var i=1;i<=pos_row_l;i++){
+                                    document.write("<tr style='border: 2px #f00 solid'>");
+                                    for(var j=1;j<=pos_col_l;j++){
+                                      //  document.writeln(tb_style[(i-1)*(pos_col)+j]);
+                                        document.write("<td style='border:solid #add9c0; border-width:0px 1px 1px 0px;padding-left:10px;'>"+
+                                        "<span  class='tb_cell_span'> "+ tb_l[(i-1)*(pos_col_l)+j]+"</span></td>");
+                                    }
+                                    document.write("</tr>");
+                                }
+                                tb_num_l = tb_num_l +1;
+                            </script>
+                        </table>
+                        </div>
+                    </volist>
+                </ul>
+
+            </li>
+
+        </ul>
+
+    </div>
+</div>
+</div>
+
+<div class='left' name='left' style='border:1px #aaa solid;margin-left: 1% ;
+float:left;width:40%;padding-right:20px;height:700px'>
+
+    <script>
+        var cellID_r;   //获取表格cell的ID值
+        var pos_cell_r;    //解析cellID为一个数组，获取行和列的位置
+        var tb_r = new Array(); //创建一个数组 存储表格中cell的值
+        var tb_style_r = new Array(); //存储表格中cell的数据的格式
+        var pos_row_r; //表格的行
+        var Pos_col_r; //表格的列
+        var num_r;     //表格中cell的个数
+        var tb_num_r = 0;
+
+    </script>
+
+    <script>
+        var tb_show_id = 0;
+        var id_cell_r;
+
+    </script>
+
+    <div>
+        <div>
+            <ul>
+                <li><span>Table:</span><br>
+                    <ul>
+                        <!-- 循环遍历所有的表!-->
+                        <volist name="tb_info2" id="vo">
+                            <div id='tb_r_{$key}' class='tb_content' >
+                                <script>
+                                    pos_row_r = 0;
+                                    pos_col_r = 0;
+                                    num_r = 0;
+                                </script>
+                                <!-- 解析表格中具体数据，cell !-->
+                                <volist name="vo.Cells.Cell" id="li">
+                                    <script>
+                                        num_r = num_r +1;
+                                        cellID_r = ""+{$li.CellID};    //获取cellID
+                                        pos_cell_r=cellID_r.split("."); //字符分割，解析CellID
+                                        pos_row_r = parseInt(pos_cell_r[0])+1;   //获取行
+                                        pos_col_r = parseInt(pos_cell_r[1])+1;   //获取列
+                                        // document.write(pos_row);
+                                        tb_r[num_r] = '{$li.CellValue}';    //  存储cell值
+                                        //  tb_style[num] ='{$li.}';
+                                        var flag_r = false;
+                                        //document.write(tb[num]);
+                                        tb_style_r[num_r] = 0;
+                                    </script>
+                                    <!-- 获取cell的格式  !-->
+                                    <volist name="li.CellRoles" id="ll">
+                                        <script>
+                                            // 根据角色判定样式
+                                            var type_css_r = 0;
+                                            if(flag_r == false) {
+                                                switch ("{$ll}") {
+                                                    case 'Array':
+                                                        type_css_r = 1;
+                                                        break;
+                                                    case 'Header':
+                                                        type_css_r = 1;
+                                                        //  tb_style[num] = type_css;
+                                                        flag_r = true;
+                                                        break;
+                                                    case 'Stub':
+                                                        type_css_r = 2;
+                                                        // tb_style[num] = type_css;
+                                                        flag_r = true;
+                                                        break;
+                                                    case 'Data':
+                                                        type_css_r = 3;
+                                                        //tb_style[num] = type_css;
+                                                        flag_r = true;
+                                                        break;
+
+                                                }
+                                                tb_style_r[num_r] = type_css_r;
+
+                                                //flag = true;
+                                            }
+                                            //document.write(tb_style[num]);
+                                        </script>
+                                    </volist>
+
+
+                                </volist>
+
+                                {$vo.TableOrder}<br>
+                                {$vo.TableCaption}<br>
+
+                                <table  style="border:solid #add9c0; border-width:1px 0px 0px 1px;">
+                                    <script>
+
+                                        //显示表格
+                                        for(var i=1;i<=pos_row_r;i++){
+                                            document.write("<tr onMouseDown='modifyRowStyle("+tb_num_r+","+i+","+pos_col_r+")' style='border: 2px #f00 solid'>");
+                                            for(var j=1;j<=pos_col_r;j++){
+                                                //  document.writeln(tb_style[(i-1)*(pos_col)+j]);
+                                                document.write("<td id='tb_cell_r_"+tb_num_r+"_"+i+"_"+j+"' class='td_class_"+tb_style_r[(i-1)*(pos_col_r)+j]+
+                                                "'style='border:solid #add9c0; border-width:0px 1px 1px 0px;"+
+                                                " padding-left:10px;'><span id='tb_cell_r_"+tb_num_r+"_"+i+"_"+j+"_span' onclick=modify("+tb_num_r+","+i+","+j+") class='tb_cell_span'> "+
+                                                tb_r[(i-1)*(pos_col_r)+j]+"</span></td>");
+                                            }
+
+                                            document.write("</tr>");
+                                        }
+                                        tb_num_r = tb_num_r +1;
+                                    </script>
+                                </table>
+                            </div>
+                        </volist>
+                    </ul>
+
+                </li>
+
+            </ul>
+
+        </div>
+    </div>
+</div>
+
+<script>$(function ()
+{ $("[data-toggle='popover']").popover();
+});
+</script>
+
+<script>
+    $('#tb_l_{$tb_id}').show();
+    $('#tb_r_{$tb_id}').show();
+
+</script>
+
+<script>
+
+    function addshow(op){
+        var tb_max = {$tb_max_num1};
+        var old_id_r = '#tb_r_'+tb_show_id;
+        var old_id_l = '#tb_l_'+tb_show_id;
+        if(op==1){
+        tb_show_id = tb_show_id +1;
+        }
+        else{
+        tb_show_id = tb_show_id -1;
+        }
+
+        if(tb_show_id >= tb_max){
+            alert('It is final table!')
+            tb_show_id = tb_show_id -1;
+            return;
+        }
+        if(tb_show_id < 0){
+            alert('It is first table!')
+            tb_show_id = tb_show_id +1;
+            return;
+        }
+
+        var new_id_r = '#tb_r_'+tb_show_id;
+        var new_id_l = '#tb_l_'+tb_show_id;
+        $(old_id_r).hide();$(new_id_r).show();
+        $(old_id_l).hide();$(new_id_l).show();
+    }
+
+
+</script>
+
+</body>
+</html>

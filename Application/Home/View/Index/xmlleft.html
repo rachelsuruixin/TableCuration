@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <base href="http://121.40.195.170/html/xmlGUI/xmlGUL/">
+    <meta charset="UTF-8">
+    <title></title>
+    <style type="text/css">
+        .td_class_0{
+            background-color: #f0c040;
+        }
+
+        .td_class_1{
+            background-color: #ff0000;
+        }
+        .td_class_2{
+            background-color: #00ff00;
+        }
+        .td_class_3{
+            background-color: #0000ff;
+        }
+        .tb_cell_span{
+
+            width : 100%;
+            height : 100%;
+            cursor:pointer;
+        }
+        .tb_content{
+            display:none;
+        }
+        #select_style_bg{
+                    width:100%;
+                    height:100%;
+                    position:absolute;
+                    z-index:10;
+                    background-color:#000;
+                    filter:alpha(opacity=50);-moz-opacity:0.5;-khtml-opacity: 0.5;opacity: 0.5;
+                    display:none;
+
+                }
+        #select_style{
+            width:60%;
+            height:20%;
+            position:absolute;
+            z-index:11;
+            background-color:#fff;
+            margin-left:20%;
+            margin-top:10%;
+            display:none;
+        }
+
+    </style>
+
+    <load file='Public/Js/jquery-2.1.1.js'/>
+    <load file='Public/Js/jquery-2.1.1.min.js'/>
+
+</head>
+<body>
+<script>
+    var cellID;   //获取表格cell的ID值
+    var pos_cell;    //解析cellID为一个数组，获取行和列的位置
+    var tb = new Array(); //创建一个数组 存储表格中cell的值
+    var tb_style = new Array(); //存储表格中cell的数据的格式
+    var pos_row; //表格的行
+    var Pos_col; //表格的列
+    var num;     //表格中cell的个数
+    var tb_num = 0;
+
+</script>
+
+<script>
+    var tb_show_id = 0;
+    $('.tb_content').hide();
+    var id_cell;
+
+</script>
+<form action="index.php/Home/Index/upload.html?id=2" enctype="multipart/form-data" method="post" >
+    <input type="text" name="name" />
+    <input type="file" name="photo" />
+    <input type="submit" value="submit" >
+</form>
+<br />
+<div id='select_style_bg' ></div>
+<div id='select_style'>
+    <input type='button' ondblclick='modifystyle(0)' style='margin-top:10%;margin-left:10%;width:20%;height:30%;background-color: #f0c040;' class="tb_class"/>
+    <input type='button' ondblclick='modifystyle(1)' style='margin-top:10%;width:20%;height:30%;background-color: #ff0000;' class="tb_class"/>
+    <input type='button' ondblclick='modifystyle(2)' style='margin-top:10%;width:20%;height:30%;background-color: #00ff00;' class="tb_class"/>
+    <input type='button' ondblclick='modifystyle(3)' style='margin-top:10%;width:20%;height:30%;background-color: #0000ff;' class="tb_class"/>
+    <script>
+        function modifystyle(id){
+
+           switch(id){
+            case 0:
+                $(id_cell).css("backgroundColor","#f0c040");
+                break;
+            case 1:
+                $(id_cell).css("backgroundColor","#ff0000");
+                break;
+
+            case 2:
+                $(id_cell).css("backgroundColor","#00ff00");
+                break;
+
+            case 3:
+                 $(id_cell).css("backgroundColor","#0000ff");
+                break;
+           }
+
+
+
+           $('#select_style_bg').hide();
+           $('#select_style').hide();
+
+        }
+    </script>
+</div>
+<div style="width=100%">
+    <input type='button' value='previous' onclick='addshow(0)'>
+    <input type='button' value='next' onclick='addshow(1)'>
+</div>
+
+<div>
+    <div>
+        <ul>
+            <li><span>Table:</span><br>
+                <ul>
+                  <!-- 循环遍历所有的表!-->
+                    <volist name="tb_info" id="vo">
+                        <div id='tb_{$key}' class='tb_content' >
+                        <script>
+                            pos_row = 0;
+                            pos_col = 0;
+                            num = 0;
+                        </script>
+                        <!-- 解析表格中具体数据，cell !-->
+                        <volist name="vo.Cells.Cell" id="li">
+                            <script>
+                                num = num +1;
+                                cellID = ""+{$li.CellID};    //获取cellID
+                                pos_cell=cellID.split("."); //字符分割，解析CellID
+                                pos_row = parseInt(pos_cell[0])+1;   //获取行
+                                pos_col = parseInt(pos_cell[1])+1;   //获取列
+                               // document.write(pos_row);
+                                tb[num] = '{$li.CellValue}';    //  存储cell值
+                              //  tb_style[num] ='{$li.}';
+                                var flag = false;
+                                //document.write(tb[num]);
+                                tb_style[num] = 0;
+                            </script>
+                            <!-- 获取cell的格式  !-->
+                            <volist name="li.CellRoles" id="ll">
+                                <script>
+                                      // 根据角色判定样式
+                                    var type_css = 0;
+                                    if(flag == false) {
+                                        switch ("{$ll}") {
+                                            case 'Array':
+                                                type_css = 1;
+                                                break;
+                                            case 'Header':
+                                                type_css = 1;
+                                              //  tb_style[num] = type_css;
+                                                flag = true;
+                                                break;
+                                            case 'Stub':
+                                                type_css = 2;
+                                               // tb_style[num] = type_css;
+                                                flag = true;
+                                                break;
+                                            case 'Data':
+                                                type_css = 3;
+                                                //tb_style[num] = type_css;
+                                                flag = true;
+                                                break;
+
+                                        }
+                                        tb_style[num] = type_css;
+
+                                        //flag = true;
+                                    }
+                                    //document.write(tb_style[num]);
+                                </script>
+                            </volist>
+
+
+                        </volist>
+
+                        {$vo.TableOrder}<br>
+                        {$vo.TableCaption}<br>
+
+                        <table  style="border:solid #add9c0; border-width:1px 0px 0px 1px;">
+                            <script>
+
+                                //显示表格
+                                for(var i=1;i<=pos_row;i++){
+                                    document.write("<tr style='border: 1px #f00 solid'>");
+                                    for(var j=1;j<=pos_col;j++){
+                                      //  document.writeln(tb_style[(i-1)*(pos_col)+j]);
+                                        document.write("<td id='tb_cell_"+tb_num+"_"+i+"_"+j+"' class='td_class_"+tb_style[(i-1)*(pos_col)+j]+
+                                        "'style='border:solid #add9c0; border-width:0px 1px 1px 0px; padding-left:10px;'><span onclick=modify("+tb_num+","+i+","+j+") class='tb_cell_span'> "+
+                                        tb[(i-1)*(pos_col)+j]+"</span></td>");
+                                    }
+                                    document.write("</tr>");
+                                }
+                                tb_num = tb_num +1;
+                            </script>
+                        </table>
+                        </div>
+                    </volist>
+                </ul>
+
+            </li>
+
+        </ul>
+
+    </div>
+</div>
+
+
+<script>
+
+    $('.tb_content').hide();
+    $('#tb_{$tb_id}').show();
+
+</script>
+
+<script>
+
+    function addshow(op){
+        var tb_max = {$tb_max_num};
+        var old_id = '#tb_'+tb_show_id;
+        if(op==1){
+        tb_show_id = tb_show_id +1;
+        }
+        else{
+        tb_show_id = tb_show_id -1;
+        }
+
+        if(tb_show_id >= tb_max){
+            alert('It is final table!')
+            return;
+        }
+        if(tb_show_id < 0){
+            alert('It is first table!')
+            return;
+        }
+
+        var new_id = '#tb_'+tb_show_id;
+        $(old_id).hide();
+        $(new_id).show();
+    }
+    function modify(i,j,k){
+      //  id_cell = '#tb_cell_'+i+'_'+j+'_'+k;
+       // $('#select_style_bg').show();
+        //$('#select_style').show();
+
+    }
+
+
+
+</script>
+
+</body>
+</html>
